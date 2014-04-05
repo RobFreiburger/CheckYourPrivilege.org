@@ -12,7 +12,7 @@
 - People Ignoring Your Opinions and You?
 - Rude Hand Gestures?
 - Segregation Based on Your Culture or Beliefs?
-- Feeling Like a Minority?
+- Feeling Like a Minority but You're White?
 
 ### Then You Should Check Your Privilege!
 
