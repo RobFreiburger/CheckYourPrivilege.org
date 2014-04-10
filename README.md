@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/RobFreiburger/CheckYourPrivilege.org.svg?branch=gh-pages)](https://travis-ci.org/RobFreiburger/CheckYourPrivilege.org)
+
 #### Are you a...
 - Graduate of an Ivy League University?
 - Men's Rights Activist?
