@@ -1,0 +1,6 @@
+.git
+wrangler.jsonc
+.wrangler
+_worker.js
+_redirects
+_headers
